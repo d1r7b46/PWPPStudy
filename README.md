@@ -7,11 +7,13 @@ There are two spots with affiliate links here. If you by chance benefitted from 
 
 ## **To Do Before you Begin**
 Set up an account with PortSwigger <br>
-https://portswigger.net/web-security <br> <br>
+https://portswigger.net/web-security <br><br>
 Set up Juice Shop <br>
 https://pwning.owasp-juice.shop <br> <br>
-Set up a TryHackMe (THM) account (affiliate) <br>
-<br><br>
+Set up a TryHackMe (THM) account (referral) <br>
+https://tryhackme.com/signup?referrer=5fc50abdccbc930779bcc40e <br><br>
+Set up a HackTheBox (HTB) account (referral) <br>
+https://referral.hackthebox.com/mzBESgu<br><br>
 Set up a Quizlet account <br>
 https://quizlet.com <br><br><br>
 
@@ -38,6 +40,7 @@ The following topics are taught within the <a href="https://academy.tcm-sec.com/
 - **Chaining vulnerabilities** <br><br>
 
 We do suggest you do everything in each section! Sections will direct the learner to do both the segment within the TCM course and also provide additional videos, reading, and labs to fully learn the topic. 
+As a last note, we have tried to keep the plan low to no cost but it is possible that the labs included will not all be free. 
 <br><br><br>
 
 ## **Section 1 - How web applications work** <br>
@@ -66,7 +69,7 @@ We do suggest you do everything in each section! Sections will direct the learne
 - Read/Write
    - Read & take notes: https://docs.oracle.com/cd/E13222_01/wls/docs81/webapp/basics.html
 - Lab
-   - Lab needed
+   - HTM "Introduction to Web Applications": https://academy.hackthebox.com/module/75/section/719
 <br><br>
 
 *HTTP Basics*
