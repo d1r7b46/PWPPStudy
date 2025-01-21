@@ -3,7 +3,7 @@
 ## Introduction
 Hello! In early 2025, <a href="https://www.linkedin.com/in/shawn-szczepkowski">Shawn</a> and <a href="https://www.linkedin.com/in/angsec">myself</a> created a plan and ran a study group as we prepared for TCM Security's Practical Web Pentest Professional (PWPP). We hope that this will help folks in the future to land this cert! If this page is incomplete, we are currently running the study group on the <a href="https://discord.gg/GYBUtkUCyF">f0xhunt Discord server</a>. 
 
-There are two spots with affiliate links here. If you by chance benefitted from the education plan we've put together please consider using them or paying it forward with mentorship to others as they come up. <br><br><br>
+There are a couple affiliate links here. If you by chance benefitted from the education plan we've put together please consider using them or paying it forward with mentorship to others as they come up. <3 <br><br><br>
 
 ## **To Do Before you Begin**
 Set up an account with PortSwigger <br>
@@ -20,7 +20,7 @@ https://quizlet.com <br><br><br>
 ## **A Note on TCM Courses and Certification**
 You can get the courses with the <a href="Head to All Access Management Product Page">All-Access Membership</a> or when you purchase the certification. <br>
 If you purchase the cert, please consider using Shawn's referral code: <br>
-(input) <br><br><br>
+https://certifications.tcm-sec.com/?ref=161 <br><br><br>
 
 ## Educational Topics and Plan
 The following topics are taught within the <a href="https://academy.tcm-sec.com/p/practical-web-hacking"> Practical Web Hacking</a> and <a href="https://academy.tcm-sec.com/p/hacking-apis">Practical API Hacking</a> courses, and will have sections below: <br>
