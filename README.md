@@ -20,11 +20,8 @@ This plan is designed for self-education in web application security and include
 https://portswigger.net/web-security
 - Set up Juice Shop <br>
 https://pwning.owasp-juice.shop
-- Set up a TryHackMe account (affiliate link) <br>
-
+- Set up a TryHackMe account <br>
 - Choose a note-taking app
-<br><br>
-Optional:
 - Set up a Quizlet account <br>
 https://quizlet.com <br><br><br>
 
