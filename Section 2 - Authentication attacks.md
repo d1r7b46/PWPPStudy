@@ -35,11 +35,12 @@
 
 *Multi-Factor Authentication* <br>
 - Video
-   - https://www.youtube.com/watch?v=CPEW6OaoEZ4
+   - Tyler Ramsbey's video "How Hackers Bypass MFA!": https://www.youtube.com/watch?v=CPEW6OaoEZ4
 - Read/Write
    - Read & take notes: https://portswigger.net/web-security/authentication/multi-factor
 - Lab
   - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/multi-factor">2FA simple bypass</a>
+  - (Optional - Same as Tyler's video) THM room: <a href="https://tryhackme.com/r/room/multifactorauthentications">Multifactor Authentications</a> 
 <br><br>
 *Other Resources:* <br>
 
