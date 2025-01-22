@@ -39,8 +39,7 @@
 - Read/Write
    - input
 - Lab
-  - input
-  - 
+  - Portswigger lab <a href="https://portswigger.net/web-security/authentication/multi-factor">2FA simple bypass</a>
 <br><br>
 *Other Resources:* <br>
 
