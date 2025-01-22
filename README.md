@@ -69,7 +69,7 @@ As a last note, we have tried to keep the plan low to no cost but it is possible
 - Read/Write
    - Read & take notes: https://docs.oracle.com/cd/E13222_01/wls/docs81/webapp/basics.html
 - Lab
-   - HTM "Introduction to Web Applications": https://academy.hackthebox.com/module/75/section/719
+   - HTB Academy "Introduction to Web Applications": https://academy.hackthebox.com/module/75/section/719
 <br><br>
 
 *HTTP Basics*
