@@ -35,11 +35,11 @@
 
 *Multi-Factor Authentication* <br>
 - Video
-   - input
+   - https://www.youtube.com/watch?v=CPEW6OaoEZ4
 - Read/Write
-   - input
+   - Read & take notes: https://portswigger.net/web-security/authentication/multi-factor
 - Lab
-  - Portswigger lab <a href="https://portswigger.net/web-security/authentication/multi-factor">2FA simple bypass</a>
+  - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/multi-factor">2FA simple bypass</a>
 <br><br>
 *Other Resources:* <br>
 
