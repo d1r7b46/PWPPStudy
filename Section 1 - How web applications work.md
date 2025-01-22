@@ -28,7 +28,7 @@
 <br><br>
 
 *HTTP Basics*
-- Auditory
+- Video
    - Hackersploit's "Web App Penetration Testing - Introduction To HTTP" : https://www.youtube.com/watch?v=TvRyJmPjcbw
 - Read/Write
    - Read & take notes: https://www.freecodecamp.org/news/secure-your-web-application-with-these-http-headers-fd66e0367628/
