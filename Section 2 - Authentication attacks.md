@@ -5,3 +5,42 @@
   - Deep Dive: Session Tokens and Sequencer
   - Deep Dive: Multi-Factor Authentication (MFA)
 <br><br>
+
+*Brute-Force Attacks*
+- Video
+   - input
+- Read/Write
+   - input
+- Labs
+   - input
+<br><br>
+
+*Response Timings*
+- Video
+   - input
+- Read/Write
+   - input
+- Lab
+   - input
+<br><br>
+
+*Session Tokens and Sequencer*
+- Video
+   - input
+- Read/Write
+   - input
+- Lab
+  - input
+<br><br>
+
+*Multi-Factor Authentication* <br>
+- Video
+   - input
+- Read/Write
+   - input
+- Lab
+  - input
+  - 
+<br><br>
+*Other Resources:* <br>
+
