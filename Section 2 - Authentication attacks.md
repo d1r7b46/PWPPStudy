@@ -2,10 +2,16 @@
 
 *To Do List*
 - Complete the section "Authentication" in the TCM Practical Web Hacking course
+- Deep Dive: Authetication
 - Deep Dive: Brute-Force Attacks
 - Deep Dive: Response Timings
 - Deep Dive: Session Tokens and Sequencer
 - Deep Dive: Multi-Factor Authentication (MFA)
+<br><br>
+
+*Authentication*
+- Read/Write
+   - Read & take notes - Portswigger: <a href="https://portswigger.net/web-security/authentication">Authentication vulnerabilities</a>
 <br><br>
 
 *Brute-Force Attacks*
