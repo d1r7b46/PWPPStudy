@@ -1,6 +1,6 @@
 ## **Section 2 - Authentication attacks** <br>
 
-* To-Do List*
+*To Do List*
 - Complete the section "Authentication" in the TCM Practical Web Hacking course
 - Deep Dive: Brute-Force Attacks
 - Deep Dive: Response Timings
@@ -47,5 +47,8 @@
   - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/multi-factor">2FA simple bypass</a>
   - (Optional) THM: <a href="https://tryhackme.com/r/room/multifactorauthentications">Multifactor Authentications</a> 
 <br><br>
+
 *Other Resources:* <br>
+- to upload: flash card deck
+<br><br>
 
