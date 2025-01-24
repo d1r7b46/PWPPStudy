@@ -1,4 +1,4 @@
-## **Section 2 - Broken access control** <br>
+## **Section 3 - Broken access control** <br>
 
 *To Do List*
 - Complete the section "Access Control" in the TCM Practical Web Hacking course
