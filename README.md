@@ -6,16 +6,19 @@ Hello! In early 2025, <a href="https://www.linkedin.com/in/shawn-szczepkowski">S
 There are a couple affiliate links here. If you by chance benefitted from the education plan we've put together please consider using them or paying it forward with mentorship to others as they come up. <3 <br><br><br>
 
 ## **To Do Before you Begin**
-Set up an account with PortSwigger <br>
-https://portswigger.net/web-security <br><br>
-Set up Juice Shop <br>
-https://pwning.owasp-juice.shop <br> <br>
-Set up a TryHackMe (THM) account (referral) <br>
-https://tryhackme.com/signup?referrer=5fc50abdccbc930779bcc40e <br><br>
-Set up a HackTheBox (HTB) account (referral) <br>
-https://referral.hackthebox.com/mzBESgu<br><br>
-Set up a Quizlet account <br>
-https://quizlet.com <br><br><br>
+
+*Set Up the Following Accounts* <br>
+<a href="https://portswigger.net/web-security">PortSwigger</a> <br>
+<a href="https://tryhackme.com/signup?referrer=5fc50abdccbc930779bcc40e">TryHackMe (THM) (affiliate)</a> <br>
+<a href="https://referral.hackthebox.com/mzBESgu">HackTheBox (HTB)(affiliate)</a> <br>
+<a href="https://quizlet.com">Quizlet</a> <br>
+<br>
+*Labs* <br>
+<a href="https://pwning.owasp-juice.shop">Set up Juice Shop</a> <br>
+<br>
+*Bookmark* <br>
+Shawn's YouTube Channel: <a href="https://www.youtube.com/@b1gb33f">b1gb33f</a>
+<br><br><br>
 
 ## **A Note on TCM Courses and Certification**
 You can get the courses with the <a href="Head to All Access Management Product Page">All-Access Membership</a> or when you purchase the certification. <br>
@@ -41,4 +44,5 @@ The following topics are taught within the <a href="https://academy.tcm-sec.com/
 
 We do suggest you do everything in each section! Sections will direct the learner to do both the segment within the TCM course and also provide additional videos, reading, and labs to fully learn the topic. 
 As a last note, we have tried to keep the plan low to no cost but it is possible that the labs included will not all be free. 
-<br><br>
+<br><br><br>
+
