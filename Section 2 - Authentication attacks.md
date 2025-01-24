@@ -16,7 +16,7 @@
 
 *Brute-Force Attacks*
 - Video
-   - HackerSploit: <a href="https://www.youtube.com/watch?v=cL9NsXpUqYI">Web App Penetration Testing - Brute Force With Burp Suite"</a>
+   - HackerSploit: <a href="https://www.youtube.com/watch?v=cL9NsXpUqYI">Web App Penetration Testing - Brute Force With Burp Suite</a>
 - Read/Write
    - Read & take notes - Portswigger: <a href="https://portswigger.net/web-security/authentication/password-based#brute-force-attacks">Vulnerabilities in password-based login</a>
 - Labs
@@ -25,11 +25,12 @@
 
 *Response Timings*
 - Video
-   - 0xdf: <a href="https://www.youtube.com/watch?v=tmlxa4Y8wy8">Exploiting HTTP Timing Attack - Timing [HackTheBox]</a>
+   - 0xdf: <a href="https://www.youtube.com/watch?v=tmlxa4Y8wy8">Exploiting HTTP Timing Attack - Timing</a>
 - Read/Write
    - Read & take notes - Portswigger: <a href="https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/10-Business_Logic_Testing/04-Test_for_Process_Timing#:~:text=Summary,and%20“game%20the%20system">Test for Process Timing</a>
 - Lab
    - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-response-timing">Username enumeration via response timing</a>
+   - Authentication Lab: <a href="https://authlab.digi.ninja/Timing">Timing</a>
    - (Optional) HTB: <a href="https://www.hackthebox.com/machines/timing">Timing</a>
 <br><br>
 
