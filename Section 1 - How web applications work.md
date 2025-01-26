@@ -10,7 +10,7 @@
    - <a href="https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g">The "Web Demystified" series from Mozilla Hacks</a>
 - Read/Write
    - Read & take notes - Mozilla: <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works">How the web works</a>
-   - Read & take notes: <a href="https://rinaarts.com/the-absolute-beginners-guide-to-web-applications/">The Absolute Beginner’s Guide to Web Applications</a>
+   - Read & take notes - Rina Artstain blog: <a href="https://rinaarts.com/the-absolute-beginners-guide-to-web-applications/">The Absolute Beginner’s Guide to Web Applications</a>
    - Look up image searches like "website diagram" or "web basics diagram", find a few that from trusted sources and make your own in your notes
 - Labs
    - THM room: <a href="https://tryhackme.com/r/room/howwebsiteswork">How Websites Work</a>
@@ -34,7 +34,7 @@
    - Read & take notes - FreeCodeCamp: <a href="https://www.freecodecamp.org/news/secure-your-web-application-with-these-http-headers-fd66e0367628/">Secure your web application with these HTTP headers</a>
    - Read & take notes - Mozilla: <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status">HTTP response status codes</a>
 - Lab
-  - THM:<a href="https://tryhackme.com/r/room/httpindetail">HTTP in Detail</a>
+  - THM:<a href="https://tryhackme.com/r/room/httpindetail"> HTTP in Detail</a>
 <br><br>
 
 *Optional Extra Work:* <br>
