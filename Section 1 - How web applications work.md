@@ -43,6 +43,7 @@ This three part series is great - if you want to solidify your knowledge:
 - Part 2: <a href="https://www.freecodecamp.org/news/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3/">How the Web Works Part II: Client-Server Model & the Structure of a Web Application</a>
 - Part 3: <a href="https://www.freecodecamp.org/news/how-the-web-works-part-iii-http-rest-e61bc50fa0a/">How the Web Works Part III: HTTP & REST</a>
 <br><br>
+- THM Room: <a href="https://tryhackme.com/r/room/vulnerabilities101">Vulnerabilities 101</a>
 
 *Other Resources:* <br>
 <a href="https://quizlet.com/816442633/web-basics-flash-cards/?funnelUUID=a0174714-fa96-457f-937b-2b50d58a0b81">Web Basics Flashcards</a>
