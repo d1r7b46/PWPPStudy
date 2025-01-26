@@ -21,6 +21,7 @@
    - Read & take notes - Portswigger: <a href="https://portswigger.net/web-security/authentication/password-based#brute-force-attacks">Vulnerabilities in password-based login</a>
 - Labs
    - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses">Username enumeration via different responses</a>
+   - THM (free): <a href="https://tryhackme.com/r/room/basicpentestingjt">Basic Pentesting</a>
 <br><br>
 
 *Response Timings*
