@@ -6,6 +6,11 @@
 - Deep Dive: Attacking Weak Access Controls
 <br><br><br>
 
+*Broken access control*
+- Lab
+   - THM room: <a href="https://tryhackme.com/r/room/owaspbrokenaccesscontrol">OWASP Broken Access Control</a>
+<br><br><br>
+
 *IDOR*
 - Video
    - NahamSec: <a href="https://www.youtube.com/watch?v=bCUqio4gNu4">Insecure Direct Object Reference / IDOR Explained // How to Bug Bounty"</a>
