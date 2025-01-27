@@ -2,6 +2,9 @@
 
 *To Do List*
 - Complete the section "Authentication" in the TCM Practical Web Hacking course
+   - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-reset-broken-logic">Password reset broken logic</a>
+   - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses">Username enumeration via different responses</a>
+   - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-subtly-different-responses">Username enumeration via subtly different responses</a>
 - Deep Dive: Authetication
 - Deep Dive: Brute-Force Attacks
 - Deep Dive: Response Timings
@@ -20,7 +23,6 @@
 - Read/Write
    - Read & take notes - Portswigger: <a href="https://portswigger.net/web-security/authentication/password-based#brute-force-attacks">Vulnerabilities in password-based login</a>
 - Labs
-   - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses">Username enumeration via different responses</a>
    - THM (free): <a href="https://tryhackme.com/r/room/basicpentestingjt">Basic Pentesting</a>
 <br><br>
 
@@ -30,7 +32,6 @@
 - Read/Write
    - Read & take notes - Portswigger: <a href="https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/10-Business_Logic_Testing/04-Test_for_Process_Timing#:~:text=Summary,and%20“game%20the%20system">Test for Process Timing</a>
 - Lab
-   - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-response-timing">Username enumeration via response timing</a>
    - Authentication Lab: <a href="https://authlab.digi.ninja/Timing">Timing</a>
    - (Optional) HTB: <a href="https://www.hackthebox.com/machines/timing">Timing</a>
 <br><br>
@@ -54,9 +55,12 @@
 - Lab
   - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/multi-factor">2FA simple bypass</a>
   - (Optional) THM: <a href="https://tryhackme.com/r/room/multifactorauthentications">Multifactor Authentications</a> 
-<br><br>
+<br><br><br>
+
+*Optional more work:
+- <a href="https://authlab.digi.ninja">Authentication Lab</a>
 
 *Other Resources:* <br>
-- to upload: flash card deck
+- Quizlet Flashcard Deck: <a href="https://quizlet.com/997638777/section-2-authentication-attacks-flash-cards/">Section 2 - Authentication attacks</a>
 <br><br>
 
