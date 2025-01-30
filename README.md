@@ -13,9 +13,6 @@ There are a couple affiliate links here. If you by chance benefitted from the ed
 <a href="https://referral.hackthebox.com/mzBESgu">HackTheBox (HTB)(affiliate)</a> <br>
 <a href="https://quizlet.com">Quizlet</a> <br>
 <br>
-*Labs* <br>
-<a href="https://pwning.owasp-juice.shop">Set up Juice Shop</a> <br>
-<br>
 *Bookmark* <br>
 Shawn's YouTube Channel: <a href="https://www.youtube.com/@b1gb33f">b1gb33f</a>
 <br><br><br>
