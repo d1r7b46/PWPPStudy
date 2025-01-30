@@ -7,29 +7,30 @@
 
 *SQL Injection*
 - Video
-   - <a href="https://www.youtube.com/watch?v=ciNHn38EyRc&t=1s">Running an SQL Injection Attack</a>
+   - Computerphile: <a href="https://www.youtube.com/watch?v=ciNHn38EyRc&t=1s">Running an SQL Injection Attack</a>
 - Read/Write
-   - notes
+   - Read & take notes - OWASP: <a href="https://owasp.org/www-community/attacks/SQL_Injection">SQL Injection</a> <br> or <br> Read & take notes - Portswigger: <a href="https://portswigger.net/web-security/sql-injection#what-is-sql-injection-sqli">SQL injection</a>
+
 - Labs
-   - THM room (free): <a href="https://tryhackme.com/r/room/sqlilab">SQL Injection Lab</a>
+   - THM (free) - pause after section "Vulnerable Startup: Broken Authentication 2" : <a href="https://tryhackme.com/r/room/sqlilab">SQL Injection Lab</a>
 <br><br><br>
 
 *Blind SQL Injection*
 - Video
-   - notes
+   - TCM: <a href="https://www.youtube.com/watch?v=j-fLh_WNg7k">Blind SQL Injection Made Easy</a>
 - Read/Write
-   - Read & take notes - 
+   - Read & take notes - OWASP: <a href="https://owasp.org/www-community/attacks/Blind_SQL_Injection">Blind SQL Injection</a> <br> or <br> Read & take notes - PortSwigger: <a href="https://portswigger.net/web-security/sql-injection/blind">Blind SQL injection</a>
 - Lab
-   - notes
+   - THM (free) - finish the room : <a href="https://tryhackme.com/r/room/sqlilab">SQL Injection Lab</a>
 <br><br><br>
 
 *NoSQL Injection*
 - Video
-   - Notes
+   - TCM: <a href="https://www.youtube.com/watch?v=zHxgZJCy9fA">Find and Exploit NoSQL Injection</a>
 - Read/Write
-   - Read & take notes - 
+   - Read & take notes - OWASP: <a href="https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05.6-Testing_for_NoSQL_Injection">Testing for NoSQL Injection</a>
 - Lab
-  - 
+  - DigiNinja: <a href="https://digi.ninja/projects/nosqli_lab.php">NoSQLi Lab</a>
 <br><br><br>
 
 *Optional Extra Work:* <br>
