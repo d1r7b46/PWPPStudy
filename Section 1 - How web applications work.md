@@ -3,7 +3,7 @@
 - Deep Dive: Web App Basics
 - Deep Dive: Web Application Components
 - Deep Dive: HTTP Basics
-<br><br>
+<br><br><br>
 
 *Web App Basics*
 - Video
@@ -16,7 +16,7 @@
    - THM room: <a href="https://tryhackme.com/r/room/howwebsiteswork">How Websites Work</a>
    - THM room: <a href="https://tryhackme.com/room/dnsindetail">DNS in Detail</a>
    - THM room: <a href="https://tryhackme.com/room/httpindetail">HTTP in Detail</a>
-<br><br>
+<br><br><br>
 
 *Web Application Components*
 - Video
@@ -25,7 +25,7 @@
    - Read & take notes - Oracle: <a href="https://docs.oracle.com/cd/E13222_01/wls/docs81/webapp/basics.html">Web Applications Basics</a>
 - Lab
    - HTB Academy: <a href="https://academy.hackthebox.com/module/75/section/719">Introduction to Web Applications</a>
-<br><br>
+<br><br><br>
 
 *HTTP Basics*
 - Video
@@ -35,7 +35,7 @@
    - Read & take notes - Mozilla: <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status">HTTP response status codes</a>
 - Lab
   - THM:<a href="https://tryhackme.com/r/room/httpindetail"> HTTP in Detail</a>
-<br><br>
+<br><br><br>
 
 *Optional Extra Work:* <br>
 This three part series is great - if you want to solidify your knowledge:
@@ -44,6 +44,7 @@ This three part series is great - if you want to solidify your knowledge:
 - Part 3: <a href="https://www.freecodecamp.org/news/how-the-web-works-part-iii-http-rest-e61bc50fa0a/">How the Web Works Part III: HTTP & REST</a>
 <br><br>
 - THM Room: <a href="https://tryhackme.com/r/room/vulnerabilities101">Vulnerabilities 101</a>
+<br><br><br>
 
 *Other Resources:* <br>
 <a href="https://quizlet.com/816442633/web-basics-flash-cards/?funnelUUID=a0174714-fa96-457f-937b-2b50d58a0b81">Web Basics Flashcards</a>
