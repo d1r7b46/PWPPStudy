@@ -1,6 +1,4 @@
 ## **Section 3 - Broken access control** <br>
-
-*To Do List*
 - Complete the section "Access Control" in the TCM Practical Web Hacking course
   - Portswigger lab: <a href="https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter">User ID controlled by request parameter</a>
   - Portswigger lab: <a href="https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality">Unprotected admin functionality</a>
@@ -11,12 +9,12 @@
 - Deep Dive: Attacking Weak Access Controls
 <br><br><br>
 
-*Broken access control*
+*Deep Dive: Broken access control*
 - Lab
    - THM (free): <a href="https://tryhackme.com/r/room/owaspbrokenaccesscontrol">OWASP Broken Access Control</a>
-<br><br><br>
+<br><br>
 
-*IDOR*
+*Deep Dive: IDOR*
 - Video
    - NahamSec: <a href="https://www.youtube.com/watch?v=bCUqio4gNu4">Insecure Direct Object Reference / IDOR Explained // How to Bug Bounty"</a>
 - Read/Write
@@ -24,18 +22,18 @@
 - Labs
    - THM (free): <a href="https://tryhackme.com/r/room/corridor">Corridor</a>
    - (Optional) THM (premium): <a href="https://tryhackme.com/r/room/idor">IDOR</a>
-<br><br><br>
+<br><br>
 
-*Attacking Weak Access Controls*
+*Deep Dive: Attacking Weak Access Controls*
 - Video
    - 0xdf: <a href="https://www.youtube.com/watch?v=tmlxa4Y8wy8">Exploiting HTTP Timing Attack - Timing [HackTheBox]</a>
 - Read/Write
    - Read & take notes - Portswigger: <a href="https://portswigger.net/web-security/access-control#what-is-access-control">Access control vulnerabilities and privilege escalation</a><br> or <br>Read & take notes - OWASP: <a href="https://owasp.org/Top10/A01_2021-Broken_Access_Control/">Broken Access Control</a>
 - Lab
    - still looking for a free lab (hmu if you have one)
-<br><br><br>
+<br><br>
 
-*Other Resources:* <br>
+*Extra Resources* <br>
 - <a href="https://labs.hackxpert.com/IDOR/">IDOR Labs</a>
 - to upload: flash card deck
 <br><br>
