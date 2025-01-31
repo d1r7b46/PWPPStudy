@@ -6,13 +6,15 @@
 - Deep Dive: XXE
 <br><br><br>
 
-*XXE*
+*Deep Dive: XXE*
 - Video
-   - add
+   - Cobalt: <a href="https://www.youtube.com/watch?v=gn3c5iRzeXY">XML External Entity (XXE) Injection All-in-One</a>
+   - CryptoCat: <a href="https://www.youtube.com/watch?v=hixTxzYDuDg">2: XML External Entity Injection (XXE) - Gin and Juice Shop (Portswigger)</a>
 - Read/Write
-   - add
+   - Read & take notes: <a href="https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing">XML External Entity (XXE) Processing</a><br>or<br>Read & take notes: <a href="https://portswigger.net/web-security/xxe">XML external entity (XXE) injection</a>
 - Labs
-   - add
+   - THM (free) - XXE Section: <a href="https://tryhackme.com/r/room/nahamstore">NahamStore</a>
+   - Github project by jbarone: <a href="https://github.com/jbarone/xxelab">XXE Lab</a>
 <br><br><br>
 
 
