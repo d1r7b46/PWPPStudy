@@ -30,6 +30,6 @@
 <br><br>
 
 *Extra Resources:* <br>
-- to upload: flash card deck
+- Quizlet Flashcard Deck: <a href="https://quizlet.com/999592833/section-4-server-side-request-forgery-flash-cards">Section 4 - Server-side request forgery</a>
 <br><br>
 
