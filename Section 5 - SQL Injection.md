@@ -36,5 +36,5 @@
   - DigiNinja: <a href="https://digi.ninja/projects/nosqli_lab.php">NoSQLi Lab</a>
 <br><br>
 
-*Extra Resources:* <br>
-cards
+*Extra Resources* <br>
+- Quizlet Flashcard Deck: <a href="https://quizlet.com/999596112/section-5-sql-injection-flash-cards/">Section 5 - SQL Injection</a>
