@@ -34,6 +34,6 @@
 <br><br>
 
 *Extra Resources* <br>
-- <a href="https://labs.hackxpert.com/IDOR/">IDOR Labs</a>
-- to upload: flash card deck
+- Quizlet Flashcard Deck: <a href="https://quizlet.com/999589602/section-3-broken-access-control-flash-cards/">Section 3 - Broken access control</a>
+- Hackxpert lab: <a href="https://labs.hackxpert.com/IDOR/">IDOR Labs</a>
 <br><br>
