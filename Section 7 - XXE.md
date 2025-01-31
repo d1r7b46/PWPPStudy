@@ -4,7 +4,7 @@
    - Portswigger lab: <a href="https://portswigger.net/web-security/xxe/lab-xxe-via-file-upload">Exploiting XXE via image file upload</a>
    - Portswigger lab: <a href="https://portswigger.net/web-security/xxe/lab-xinclude-attack">Exploiting XInclude to retrieve files</a>
 - Deep Dive: XXE
-<br><br><br>
+<br><br>
 
 *Deep Dive: XXE*
 - Video
@@ -15,8 +15,8 @@
 - Labs
    - THM (free) - XXE Section: <a href="https://tryhackme.com/r/room/nahamstore">NahamStore</a>
    - Github project by jbarone: <a href="https://github.com/jbarone/xxelab">XXE Lab</a>
-<br><br><br>
+<br><br>
 
 
-*Other Resources:* <br>
+*Extra Resources* <br>
 cards
