@@ -7,7 +7,7 @@
   - Portswigger lab: <a href="https://portswigger.net/web-security/access-control/lab-referer-based-access-control">Referer-based access control</a>
 - Deep Dive: IDOR
 - Deep Dive: Attacking Weak Access Controls
-<br><br><br>
+<br><br>
 
 *Deep Dive: Broken access control*
 - Lab
@@ -33,7 +33,7 @@
    - still looking for a free lab (hmu if you have one)
 <br><br>
 
-*Extra Resources* <br>
+*Extra Resources*<br>
 - Quizlet Flashcard Deck: <a href="https://quizlet.com/999589602/section-3-broken-access-control-flash-cards/">Section 3 - Broken access control</a>
 - Hackxpert lab: <a href="https://labs.hackxpert.com/IDOR/">IDOR Labs</a>
 <br><br>
