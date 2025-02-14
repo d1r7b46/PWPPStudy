@@ -1,4 +1,4 @@
-## **Section 3 - Broken access control** <br>
+## **Section C - Broken access control** <br>
 - Complete the section "Access Control" in the TCM Practical Web Hacking course
   - Portswigger lab: <a href="https://portswigger.net/web-security/access-control/lab-user-id-controlled-by-request-parameter">User ID controlled by request parameter</a>
   - Portswigger lab: <a href="https://portswigger.net/web-security/access-control/lab-unprotected-admin-functionality">Unprotected admin functionality</a>
