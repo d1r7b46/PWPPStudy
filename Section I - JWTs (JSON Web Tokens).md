@@ -1,4 +1,4 @@
-## **Section 9 - JWTs (JSON Web Tokens)** <br>
+## **Section I - JWTs (JSON Web Tokens)** <br>
 - Complete the section "JWTs" in the TCM Practical Web Hacking course
    - Portswigger lab: <a href="https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-unverified-signature">JWT authentication bypass via unverified signature</a>
    - Portswigger lab: <a href="https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-flawed-signature-verification">JWT authentication bypass via flawed signature verification</a>
