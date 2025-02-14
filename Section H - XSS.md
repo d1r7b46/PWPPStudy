@@ -1,4 +1,4 @@
-## **Section 8 - XSS / JavaScript Injection** <br>
+## **Section H - XSS / JavaScript Injection** <br>
 - Complete the section "XSS / JavaScript Injection" in the TCM Practical Web Hacking course
    - Portswigger lab: <a href="https://portswigger.net/web-security/cross-site-scripting/contexts/lab-html-context-with-most-tags-and-attributes-blocked">Reflected XSS into HTML context with most tags and attributes blocked</a>
    - Portswigger lab: <a href="https://portswigger.net/web-security/cross-site-scripting/contexts/lab-href-attribute-double-quotes-html-encoded">Stored XSS into anchor href attribute with double quotes HTML-encoded</a>
