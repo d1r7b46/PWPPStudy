@@ -1,4 +1,4 @@
-## **Section 4 - Server-side request forgery** <br>
+## **Section D - Server-side request forgery** <br>
 - Complete the section "SSRF (Server-Side Request Forgery)" in the TCM Practical Web Hacking course
    - Portswigger lab: <a href="https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-localhost">Basic SSRF against the local server</a>
    - Portswigger lab: <a href="https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system">Basic SSRF against another back-end system</a>
