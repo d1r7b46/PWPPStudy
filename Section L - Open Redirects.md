@@ -13,4 +13,5 @@
    - THM - Synk Open Source: <a href="https://tryhackme.com/room/snykopensource">Snyk Open Source</a>
 <br><br>
 
-
+*Extra Resources* <br>
+cards
