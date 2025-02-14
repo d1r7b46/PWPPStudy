@@ -1,4 +1,4 @@
-## **Section 6 - File inclusion** <br>
+## **Section F - File inclusion** <br>
 - Complete the section "File Inclusion" in the TCM Practical Web Hacking course
    - Portswigger lab: <a href="https://portswigger.net/web-security/file-path-traversal/lab-simple">File path traversal, simple case</a>
    - Portswigger lab: <a href="https://portswigger.net/web-security/file-path-traversal/lab-absolute-path-bypass">File path traversal, traversal sequences blocked with absolute path bypass</a>
