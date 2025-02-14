@@ -1,4 +1,4 @@
-## **Section 5 - SQL Injection** <br>
+## **Section E - SQL Injection** <br>
 - Complete the section "SQL Injection" in the TCM Practical Web Hacking course
    - Portswigger lab: <a href="https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-data-from-other-tables">SQL injection UNION attack, retrieving data from other tables</a>
    - Portswigger lab: <a href="https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses">Blind SQL injection with conditional responses</a>
