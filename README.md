@@ -14,7 +14,8 @@ There are a couple affiliate links here. If you by chance benefitted from the ed
 <a href="https://quizlet.com">Quizlet</a> <br>
 <br>
 *Bookmark* <br>
-Shawn's YouTube Channel: <a href="https://www.youtube.com/@b1gb33f">b1gb33f</a>
+Shawn's YouTube Channel: <a href="https://www.youtube.com/@b1gb33f">b1gb33f</a><br>
+PWPP Checklist: <a href="https://github.com/b1g-b33f/Study-Groups/blob/main/PWPP-Checklist.md">Study-Groups/PWPP-Checklist</a>
 <br><br><br>
 
 ## **A Note on TCM Courses and Certification**
