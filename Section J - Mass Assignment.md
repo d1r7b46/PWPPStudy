@@ -9,7 +9,7 @@
 - Video
    - Andrew Hoffman: <a href="https://www.youtube.com/watch?v=r1j0COUMTqw">Mass Assignment Attacks Explained</a>
 - Read/Write
-   - Read & take notes - Synck: <a href="https://learn.snyk.io/lesson/mass-assignment/">Mass assignment</a>
+   - Read & take notes - Synk: <a href="https://learn.snyk.io/lesson/mass-assignment/">Mass assignment</a>
 - Labs
    - See more in a later module
 <br><br>
