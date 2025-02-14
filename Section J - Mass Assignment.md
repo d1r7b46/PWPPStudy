@@ -1,4 +1,4 @@
-## **Section 10 - Mass Assignment** <br>
+## **Section J - Mass Assignment** <br>
 *note: there will be a second section on this topic due to the API course, this section will be left intentionally reduced*
 - Complete the section "Mass Assignment" in the TCM Practical Web Hacking course
    - Portswigger lab: <a href="https://portswigger.net/web-security/api-testing/lab-exploiting-mass-assignment-vulnerability">Exploiting a mass assignment vulnerability</a>
