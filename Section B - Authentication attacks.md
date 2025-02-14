@@ -1,4 +1,4 @@
-## **Section 2 - Authentication attacks** <br>
+## **Section B - Authentication attacks** <br>
 - Complete the section "Authentication" in the TCM Practical Web Hacking course
    - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-reset-broken-logic">Password reset broken logic</a>
    - Portswigger lab: <a href="https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses">Username enumeration via different responses</a>
