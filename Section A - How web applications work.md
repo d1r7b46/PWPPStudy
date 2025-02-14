@@ -1,4 +1,4 @@
-## **Section 1 - How web applications work** <br>
+## **Section A - How web applications work** <br>
 - Complete the section "Introduction" in the TCM Practical Web Hacking course
 - Deep Dive: Web App Basics
 - Deep Dive: Web Application Components
